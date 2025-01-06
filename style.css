@@ -1,0 +1,746 @@
+.frame {
+  background-color: #1b1a1a;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-wrapper {
+  background-color: #1b1a1a;
+  overflow: hidden;
+  width: 1440px;
+  height: 2707px;
+}
+
+.frame .overlap {
+  position: relative;
+  width: 1444px;
+  height: 2707px;
+  left: -4px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 2440px;
+  top: 0;
+  left: 4px;
+}
+
+.frame .div {
+  position: absolute;
+  width: 1444px;
+  height: 467px;
+  top: 2240px;
+  left: 0;
+  background-color: #1b1a1a;
+}
+
+.frame .group {
+  position: absolute;
+  width: 172px;
+  height: 38px;
+  top: 2539px;
+  left: 109px;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 521px;
+  height: 171px;
+  top: 2347px;
+  left: 109px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .got-a-project-in {
+  position: absolute;
+  width: 517px;
+  top: 75px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .div-2 {
+  position: absolute;
+  width: 281px;
+  height: 440px;
+  top: 2202px;
+  left: 796px;
+  overflow: hidden;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 281px;
+  height: 266px;
+  top: 174px;
+  left: 0;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 281px;
+  height: 260px;
+  top: 0;
+  left: 0;
+  background-color: #757575;
+  border-radius: 10px;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 281px;
+  height: 260px;
+  top: 6px;
+  left: 0;
+  background-color: #181818;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 121px;
+  left: 37px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector {
+  position: absolute;
+  width: 106px;
+  height: 80px;
+  top: -1151px;
+  left: -315px;
+}
+
+.frame .img {
+  position: absolute;
+  width: 281px;
+  height: 440px;
+  top: 2202px;
+  left: 1107px;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 983px;
+  left: 35px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .why-me-well-i-m-a {
+  position: absolute;
+  width: 1180px;
+  top: 1074px;
+  left: 43px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .firefly {
+  position: absolute;
+  width: 501px;
+  height: 869px;
+  top: 108px;
+  left: 63px;
+}
+
+.frame .gd {
+  position: absolute;
+  width: 678px;
+  height: 392px;
+  top: 1285px;
+  left: 29px;
+}
+
+.frame .overlap-2 {
+  position: relative;
+  height: 392px;
+}
+
+.frame .rectangle-wrapper {
+  position: absolute;
+  width: 678px;
+  height: 392px;
+  top: 0;
+  left: 0;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 682px;
+  height: 396px;
+  top: -2px;
+  left: -2px;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: 177px;
+  left: 227px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .web {
+  position: absolute;
+  width: 678px;
+  height: 392px;
+  top: 1285px;
+  left: 737px;
+  background-image: url(https://c.animaapp.com/iZjHNJuW/img/rectangle-21.svg);
+  background-size: 100% 100%;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  top: 177px;
+  left: 251px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .component {
+  position: absolute;
+  width: 1386px;
+  height: 479px;
+  top: 1699px;
+  left: 29px;
+  background-image: url(https://c.animaapp.com/iZjHNJuW/img/rectangle-321.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  top: 209px;
+  left: 626px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .hey-there-i-m-aditya-wrapper {
+  position: absolute;
+  width: 627px;
+  height: 123px;
+  top: 365px;
+  left: 675px;
+}
+
+.frame .hey-there-i-m-aditya {
+  position: absolute;
+  width: 627px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  top: 202px;
+  left: 675px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 333px;
+  left: 675px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  top: 244px;
+  left: 675px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .group-wrapper {
+  position: absolute;
+  width: 175px;
+  height: 240px;
+  top: 519px;
+  left: 985px;
+}
+
+.frame .overlap-group-wrapper {
+  height: 240px;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  width: 179px;
+  height: 240px;
+}
+
+.frame .group-3 {
+  position: absolute;
+  width: 179px;
+  height: 67px;
+  top: 173px;
+  left: 0;
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Anton SC", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .email {
+  position: absolute;
+  width: 175px;
+  top: 45px;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.frame .group-4 {
+  position: absolute;
+  width: 162px;
+  height: 207px;
+  top: 0;
+  left: 0;
+}
+
+.frame .graphic-designer {
+  position: absolute;
+  width: 158px;
+  top: 47px;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .group-5 {
+  position: absolute;
+  width: 233px;
+  height: 237px;
+  top: 520px;
+  left: 675px;
+}
+
+.frame .group-6 {
+  position: absolute;
+  width: 162px;
+  height: 67px;
+  top: 92px;
+  left: 0;
+}
+
+.frame .p {
+  position: absolute;
+  width: 158px;
+  top: 45px;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  
+}
+
+.frame .div-wrapper {
+  position: absolute;
+  width: 237px;
+  height: 64px;
+  top: 173px;
+  left: 0;
+}
+
+.frame .overlap-group-3 {
+  position: relative;
+  width: 233px;
+  height: 64px;
+}
+
+.frame .freelance {
+  position: absolute;
+  width: 233px;
+  top: 42px;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  padding-top: 10px;
+  line-height: normal;
+}
+
+.frame .group-7 {
+  position: absolute;
+  width: 134px;
+  height: 73px;
+  top: 0;
+  left: 0;
+}
+
+.frame .group-8 {
+  position: absolute;
+  width: 136px;
+  height: 28px;
+  top: 45px;
+  left: 0;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Helvetica-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-12 {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .group-9 {
+  position: absolute;
+  width: 1440px;
+  height: 98px;
+  top: 1px;
+  left: 4px;
+}
+
+.frame .group-10 {
+  position: relative;
+  width: 1124px;
+  height: 26px;
+  top: 36px;
+  left: 158px;
+}
+
+.frame .group-11 {
+  position: relative;
+  width: 1126px;
+  height: 26px;
+}
+
+.frame .group-12 {
+  position: absolute;
+  width: 470px;
+  height: 26px;
+  top: 0;
+  left: 654px;
+}
+
+.frame .div-wrapper-2 {
+  position: absolute;
+  width: 56px;
+  height: 19px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+  
+  .frame .div-wrapper-2 :hover {
+  
+  color: #f76868;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+  }
+  
+  .frame .div-wrapper-2 a {
+    text-decoration: none; 
+  color: inherit; 
+  display: block; 
+  width: 100%; 
+  height: 100%;
+  }
+
+.frame .text-wrapper-13 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+
+.frame .home-wrapper {
+  position: absolute;
+  width: 73px;
+  height: 19px;
+  top: 0;
+  left: 86px;
+  overflow: hidden;
+ 
+  text-align: center; 
+  line-height: 19px; 
+  transition: all 0.3s ease; 
+  cursor: pointer; 
+}
+
+
+
+.frame .home-wrapper a {
+text-decoration: none; 
+color: inherit; 
+display: block; 
+width: 100%; 
+height: 100%;
+}
+
+
+.frame .home-wrapper,
+.frame .home-wrapper-2,
+.frame .home-wrapper-3,
+.frame .home-wrapper-4 {
+  position: absolute;
+  height: 24px; 
+  overflow: hidden;
+ 
+  text-align: center; 
+  line-height: 24px; 
+  transition: all 0.3s ease; 
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px; 
+}
+
+.frame .home-wrapper { 
+  width: 73px; 
+  top: 0; 
+  left: 86px; 
+}
+
+.frame .home-wrapper-2 { 
+  width: 85px; 
+  top: 2px; 
+  left: 189px; 
+}
+
+.frame .home-wrapper-3 { 
+  width: 56px; 
+  top: 2px; 
+  left: 304px; 
+}
+
+.frame .home-wrapper-4 { 
+  width: 80px; 
+  top: 2px; 
+  left: 390px; 
+}
+
+.frame .home-wrapper :hover,
+.frame .home-wrapper-2 :hover,
+.frame .home-wrapper-3 :hover,
+.frame .home-wrapper-4 :hover {
+  
+  color: #f76868;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  transform: translateY(-2px); 
+}
+
+.frame .home-wrapper a,
+.frame .home-wrapper-2 a,
+.frame .home-wrapper-3 a,
+.frame .home-wrapper-4 a {
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+  width: 100%; 
+  height: 100%;
+}
+
+.frame .text-wrapper-14 {
+  position: absolute;
+  width: 107px;
+  top: 2px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.frame .component:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+.frame .component:hover > .text-wrapper-6{
+  color: #fa8e8e;
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+
+.frame .rectangle-wrapper:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+.frame .rectangle-wrapper:hover ~ .text-wrapper-4{
+  color: #c05d5d;
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+
+.frame .web:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+.frame .web:hover > .text-wrapper-5{
+  color: #fa8e8e;
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+
+.frame .component:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+.frame .component:hover > .text-wrapper-6{
+  color: #fa8e8e;
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+
+.frame .rectangle-wrapper:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+.frame .rectangle-wrapper:hover ~ .text-wrapper-4{
+  color: #c05d5d;
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+
+.frame .web:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+.frame .web:hover > .text-wrapper-5{
+  color: #fa8e8e;
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(11, 10, 10, 0); 
+}
+#exp{
+  padding-top: 10px;
+}
